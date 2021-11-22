@@ -1,0 +1,326 @@
+html {
+    background: none;
+}
+.header-inner {
+    background-color: white;
+    background: rgba(148, 147, 147, 0.486);
+    color: black;
+    text-align: center;
+    height: 130px;
+    width: 50%;
+    margin-top: 30px;
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+    margin-left: 385px;
+}
+.sprint {
+    width: 72%;
+    height: 320px;
+    margin-left: 220px;
+    margin-right: 130px;
+    border-radius: 10px;
+}
+.sprint_lesson-1 {
+    background-color: white;
+    width: 250px;
+    height:100px;
+    margin-left: 70px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_content-1 {
+    margin-left: 70px;
+    margin-top: -12px;
+}
+a:link, a:visited {
+    border: none;
+    color: green;
+    padding: -7px 8px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center; 
+    cursor: pointer;
+    display: inline-block;
+}
+.sprint {
+    background-color: white;
+}
+.sprint_lesson-2 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 405px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_content-2 {
+    margin-left: 70px;
+    margin-top: -3px;
+}
+body {
+    background-color: rgb(235, 235, 235);
+}
+.sprint_lesson-3 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 740px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_content-3 {
+    margin-left:75px;
+    margin-top: -10px;
+}
+h2 {
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 23px;
+}
+.sprint_lesson-4 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_content-4 {
+    margin-left: 75px;
+    margin-top: -20px;
+}
+.sprint_lesson-5 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 405px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-6 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 740px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_content-5 {
+    margin-left: 75px;
+    margin-top: -10px;
+}
+.sprint_lesson_head-5 {
+    margin-left: 35px;
+}
+.sprint_lesson_head-2 {
+    margin-left: 20px;
+}
+.sprint_lesson_content-6 {
+    margin-left: 85px;
+    margin-top: -10px;
+}
+.sprint_lesson_head-6 {
+    margin-left: -10px;
+}
+.text-h2 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.sprint_lesson_head-3 {
+    margin-left: 30px;
+}
+.sprint-2 {
+    background-color: white;
+    width: 72%;
+    height: 480px;
+    margin-left: 220px;
+    margin-right: 130px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.sprint_lesson-7 {
+    width: 250px;
+    height:100px;
+    margin-left: 70px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-8 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 405px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}.sprint_lesson-9 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 740px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-10 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-11 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 405px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-12 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: -105px;
+    margin-left: 740px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson-13 {
+    width: 250px;
+    height:100px;
+    box-shadow: 0 0 7px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 70px;
+    font-size: 18px;
+    background: rgba(148, 147, 147, 0.486);
+}
+.sprint_lesson_head-8 {
+    margin-left: 20px;
+}
+.sprint_lesson_head-9 {
+    margin-top: -10px;
+}
+.sprint_lesson_head-10 {
+    margin-top: -10px;
+}
+.sprint_lesson_head-11 {
+    margin-top: -10px;
+}
+.sprint_lesson_head-12 {
+    margin-top: -15px;
+}
+.sprint_lesson_head-13 {
+    margin-top: -15px;
+    margin-left: 20px;
+}
+.sprint_lesson_content-7 {
+    margin-left: 80px;
+    margin-top: -5px;
+}
+.sprint_lesson_content-8 {
+    margin-left: 80px;
+    margin-top: -10px;
+}
+.sprint_lesson_content-9 {
+    margin-left: 85px;
+    margin-top: -15px;
+}
+.sprint_lesson_content-10 {
+    margin-left: 80px;
+    margin-top: -20px;
+}
+.sprint_lesson_content-11 {
+    margin-left: 80px;
+    margin-top: -20px;
+}
+.sprint_lesson_content-12 {
+    margin-left: 85px;
+    margin-top: -15px;
+}
+.sprint_lesson_content-13 {
+    margin-left: 75px;
+    margin-top: -15px;
+}
+h4 {
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 23px;
+}
+h1 {
+    margin-top: -10px;
+}
+video{
+    position:fixed;
+    z-index:-1;
+    width:100%;
+    height:auto;
+    overflow:hidden;
+    margin-top: -20px;
+    margin-left: -10px;
+}
+div.sprint {
+    background-color:transparent;
+}
+div.sprint {
+    background:none;
+}
+div.sprint-2 {
+    background-color:transparent;
+}
+div.sprint-2 {
+    background:none;
+}
+.teext {
+    margin-top: 10px;
+}
